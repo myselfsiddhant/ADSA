@@ -1,7 +1,7 @@
 # ADSA
 
 ## Array
-- [Leetcode 169 : Majority Element](https://leetcode.com/submissions/detail/1754318381
+- [Leetcode 169 : Majority Element](https://leetcode.com/submissions/detail/1754318381)
 - [Leetcode 26 : Remove Duplicates from Sorted Array](https://leetcode.com/submissions/detail/1747344043/)
 
 
