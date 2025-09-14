@@ -19,9 +19,9 @@
 
 
 ## Sliding Window
--[643. Maximum Average Subarray I](https://leetcode.com/submissions/detail/1758013826/)
+- [643. Maximum Average Subarray I](https://leetcode.com/submissions/detail/1758013826/)
 
 
 ## Bit Manipulation
--[136. Single Number](https://leetcode.com/submissions/detail/1759164220/)
--[191. Number of 1 Bits](https://leetcode.com/submissions/detail/1769992599/)
+- [136. Single Number](https://leetcode.com/submissions/detail/1759164220/)
+- [191. Number of 1 Bits](https://leetcode.com/submissions/detail/1769992599/)
