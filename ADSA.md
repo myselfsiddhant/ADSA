@@ -16,6 +16,10 @@
 
 ## Binary Search
 - [441. Arranging Coins](https://leetcode.com/submissions/detail/1754244190/)
+- [704. Binary Search](https://leetcode.com/submissions/detail/1774872519/)
+- [35. Search Insert Position](https://leetcode.com/submissions/detail/1774894634/)
+- [34. First and Last Position of Element in Sorted Array](https://leetcode.com/submissions/detail/1774908062/)
+
 
 
 ## Sliding Window
