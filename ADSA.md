@@ -24,6 +24,7 @@
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1777688966/)
 - [540. Single Element in a Sorted Array](https://leetcode.com/submissions/detail/1777704358/)
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/submissions/detail/1781101150/)
+- [74. Search a 2D Matrix](https://leetcode.com/submissions/detail/1781114165/)
 
 
 ## Sliding Window
