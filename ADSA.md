@@ -34,3 +34,7 @@
 ## Bit Manipulation
 - [136. Single Number](https://leetcode.com/submissions/detail/1759164220/)
 - [191. Number of 1 Bits](https://leetcode.com/submissions/detail/1769992599/)
+
+
+## LinkedList
+-[237. Delete Node in a Linked List](https://leetcode.com/submissions/detail/1782206389/)
