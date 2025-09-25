@@ -38,3 +38,4 @@
 
 ## LinkedList
 - [237. Delete Node in a Linked List](https://leetcode.com/submissions/detail/1782206389/)
+- [876. Middle of the Linked List](https://leetcode.com/submissions/detail/1782212938/)
