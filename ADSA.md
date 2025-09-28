@@ -41,3 +41,5 @@
 - [876. Middle of the Linked List](https://leetcode.com/submissions/detail/1782212938/)
 - [328. Odd Even Linked List](https://leetcode.com/submissions/detail/1782233714/)
 - [19. Remove Nth Node From End of List](https://leetcode.com/submissions/detail/1782245996/)
+- [234. Palindrome Linked List](https://leetcode.com/submissions/detail/1784826096/)
+- [141. Linked List Cycle](https://leetcode.com/submissions/detail/1784855126/)
