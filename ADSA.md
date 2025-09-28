@@ -43,3 +43,5 @@
 - [19. Remove Nth Node From End of List](https://leetcode.com/submissions/detail/1782245996/)
 - [234. Palindrome Linked List](https://leetcode.com/submissions/detail/1784826096/)
 - [141. Linked List Cycle](https://leetcode.com/submissions/detail/1784855126/)
+- [160. Intersection of Two Linked Lists](https://leetcode.com/submissions/detail/1784907163/)
+- [2. Add Two Numbers](https://leetcode.com/submissions/detail/1784919838/)
