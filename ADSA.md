@@ -45,3 +45,7 @@
 - [141. Linked List Cycle](https://leetcode.com/submissions/detail/1784855126/)
 - [160. Intersection of Two Linked Lists](https://leetcode.com/submissions/detail/1784907163/)
 - [2. Add Two Numbers](https://leetcode.com/submissions/detail/1784919838/)
+
+
+## Stack
+- [20. Valid Parentheses](https://leetcode.com/submissions/detail/1791768351/)
