@@ -51,3 +51,4 @@
 - [20. Valid Parentheses](https://leetcode.com/submissions/detail/1791768351/)
 - [155. Min Stack](https://leetcode.com/submissions/detail/1791792690/)
 - [496. Next Greater Element I](https://leetcode.com/submissions/detail/1795124644/)
+- [735. Asteroid Collision](https://leetcode.com/submissions/detail/1796264915/)
