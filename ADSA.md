@@ -58,3 +58,4 @@
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/submissions/detail/1798912073/)
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/submissions/detail/1798925704/)
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/submissions/detail/1798941740/)
+- [700. Search in a Binary Search Tree](https://leetcode.com/submissions/detail/1802234700/)
